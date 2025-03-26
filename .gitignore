@@ -1,0 +1,14 @@
+text_classification/.env
+text_classification/data/IMDB Dataset.csv
+text_classification/output/bert_model.pt/config.json
+text_classification/output/bert_model.pt/model.safetensors
+text_classification/output/bert_model.pt/special_tokens_map.json
+text_classification/output/bert_model.pt/tokenizer.json
+text_classification/output/bert_model.pt/tokenizer_config.json
+text_classification/output/bert_model.pt/training_args.bin
+text_classification/output/bert_model.pt/vocab.txt
+text_classification/pickles/setfit.pkl
+text_classification/processing/__pycache__/bert_processing.cpython-311.pyc
+text_classification/processing/__pycache__/llm_classification.cpython-311.pyc
+text_classification/processing/__pycache__/text_cleaning.cpython-311.pyc
+text_classification/processing/__pycache__/text_to_numbers.cpython-311.pyc
